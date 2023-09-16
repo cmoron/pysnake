@@ -65,4 +65,4 @@ while True:
     pygame.display.flip()
 
     # Taux de rafraîchissement
-    clock.tick(240)
+    clock.tick(15)
